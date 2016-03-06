@@ -1,0 +1,15 @@
+{
+  "author": "Ben Pirt",
+  "name": "MirobotSimulator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mirobot/mirobot-sim.git"
+  },
+  "license": "MIT",
+  "description": "A fake Mirobot for testing libraries against",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "1.0.1"
+  }
+}
